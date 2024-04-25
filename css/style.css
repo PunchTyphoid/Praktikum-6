@@ -1,0 +1,14 @@
+.logo {
+    height: 90px;
+    cursor: pointer;
+    transition: background-color 1.5s;
+}
+.logo:hover{
+    background-color: darkblue;
+}
+.navbar-nav li {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
